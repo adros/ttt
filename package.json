@@ -1,0 +1,19 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "./sripts/a.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adros/ttt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adros/ttt/issues"
+  },
+  "homepage": "https://github.com/adros/ttt#readme"
+}
